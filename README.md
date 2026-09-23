@@ -6,6 +6,10 @@ I build the guardrails.
 
 ---
 
+## Agent workflow and skills
+
+My [password-protected workflow bundle](https://github.com/CalebDane7/kaleeb-agent-workflow-download) includes my `AGENTS.md`, its supporting rules, copywriting skills, and Beautiful Converting Frontend Design for Codex and Claude. Download the ZIP and ask me for the password.
+
 ## 🔒 KittyAI Controller
 
 Your AI coding agent is one hallucination away from breaking production.
